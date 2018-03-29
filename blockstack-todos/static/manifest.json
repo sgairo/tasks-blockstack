@@ -1,0 +1,10 @@
+{
+  "name": "Project Tasks",
+  "start_url": "http://blockstack-todos.appartisan.com",
+  "description": "A simple project tasks app built on blockstack",
+  "icons": [{
+    "src": "http://blockstack-todos.appartisan.com/logo.png",
+    "sizes": "400x400",
+    "type": "image/png"
+  }]
+}
